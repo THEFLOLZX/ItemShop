@@ -1,6 +1,6 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 100
+Pickaxe_ID_376_FNCS, 100
+Pickaxe_ID_179_StarWand, 100
 na
 na
 na
